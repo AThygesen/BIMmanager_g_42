@@ -1,8 +1,7 @@
 import ifcopenshell
 
-from .external.BIManalyst_g_40.rules import windowRule
 from .external.BIManalyst_g_41.rules import Qty_Of_Structural_Elements
-from .external.BIManalyst_g_44.rules import beam_price_based_on_meter
+from .external.BIManalyst_g_44 import
 
 
 model = ifcopenshell.open("C:/Users/August Thygesen/OneDrive/DTU/7. semester/Advanced BIM\ModelsLLYN - ARK.ifc")
