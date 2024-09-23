@@ -13,3 +13,5 @@ windowRule = windowRule.checkRule(model)
 print("Window result:", windowRule)
 #print("Qty of structural elements:", Qty_of_structural)
 #print("Beam price:", beam_price)
+
+
