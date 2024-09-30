@@ -1,5 +1,5 @@
 # BIMmanager group 42
-Group number: 42
+## Group number: 42
 
 Focus area: BUILD
 
