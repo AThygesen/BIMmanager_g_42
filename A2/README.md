@@ -99,6 +99,7 @@ ifcopenshell.util.element.get_psets(elements,psets_only=True)
 A way to collect, sort and apply information 
 
 **A2g: Identify Appropriate Software License** 
-
-
-
+| License        | Lisense keyword|
+|----------------|----------------|
+| IFCopenshell   | LGPL-3.0-or-later*|
+| Pandas         | BSD 3-Clause   |
