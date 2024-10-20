@@ -2,8 +2,12 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/BIManalyst-group-41" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/BIManalyst_g_40" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/BIManalyst_g_40_new" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/BIManalyst_g_41" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/external/BIManalyst_g_44" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/BIManalyst_g_xy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/external/Group-44" vcs="Git" />
   </component>
 </project>
