@@ -75,7 +75,7 @@ Having a tool that can help extract and sort wide ranges of data is a time saver
    
 The time saved can significantly reduce the number of hours the engineer needs to spend on gathering data, freeing up additional hours. This could enable the company to offer a lower price for the tender, increasing its chances of winning more projects. Another way our tool can have an impact is during the quality assurance, with the tool being somewhat automatic.
 
-BPMN Diagram
+3.  BPMN Diagram
 
 ![A2E](https://github.com/user-attachments/assets/1a688c49-a5e0-4c32-8d4b-0ac63ed9af54)
 
@@ -99,5 +99,6 @@ ifcopenshell.util.element.get_psets(elements,psets_only=True)
 A way to collect, sort and apply information 
 
 **A2g: Identify Appropriate Software License** 
+
 
 
