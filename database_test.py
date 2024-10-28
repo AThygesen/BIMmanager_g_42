@@ -14,7 +14,6 @@ for element in physical_elements:
         'GlobalId': element.GlobalId,
         'Name': element.Name,
         'Type': element.is_a(),
-        'Description': element.Description
     }
     
     # Extract quantities
