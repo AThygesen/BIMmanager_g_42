@@ -2,10 +2,6 @@
 	path = external/BIManalyst_g_44
 	url = https://github.com/lillian-al/BIManalyst_g_44.git
 	branch = main
-[submodule "external/BIManalyst_g_40"]
-	path = external/BIManalyst_g_40
-	url = https://github.com/hugoscb/BIManalyst_g_40.git
-	branch = main
 [submodule "external/BIManalyst_g_41"]
 	path = external/BIManalyst_g_41
 	url = https://github.com/A11016/BIManalyst_g_41.git
