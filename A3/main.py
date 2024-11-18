@@ -1,0 +1,1 @@
+# this should be the main script that pulls data from IFC file and compares to Cost database
