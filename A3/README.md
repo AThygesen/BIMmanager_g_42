@@ -1,6 +1,6 @@
 **Group 42 - Assignment A3**
 
-**About the Tool: **
+**About the Tool:**
 
 **State the problem/claim that your tool is solving:**
 
