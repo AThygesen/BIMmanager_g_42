@@ -1,0 +1,89 @@
+{
+  "requirements": [
+    {
+      "elementType": "IfcWall",
+      "properties": [
+        {
+          "name": "GlobalId",
+          "type": "String",
+          "mandatory": true,
+          "description": "Unique identifier for the wall element."
+        },
+        {
+          "name": "Name",
+          "type": "String",
+          "mandatory": true,
+          "description": "The name of the wall element."
+        },
+        {
+          "name": "Height",
+          "type": "Length",
+          "unit": "m",
+          "mandatory": true,
+          "description": "The vertical height of the wall."
+        },
+        {
+          "name": "Material",
+          "type": "IfcMaterial",
+          "mandatory": true,
+          "description": "The material composition of the wall."
+        }
+      ]
+    },
+    {
+      "elementType": "IfcBeam",
+      "properties": [
+        {
+          "name": "GlobalId",
+          "type": "String",
+          "mandatory": true,
+          "description": "Unique identifier for the beam element."
+        },
+        {
+          "name": "Length",
+          "type": "Length",
+          "unit": "m",
+          "mandatory": true,
+          "description": "The total length of the beam."
+        }
+      ]
+    },
+    {
+      "elementType": "IfcWindow",
+      "properties": [
+        {
+          "name": "GlobalId",
+          "type": "String",
+          "mandatory": true,
+          "description": "Unique identifier for the window element."
+        },
+        {
+          "name": "Name",
+          "type": "String",
+          "mandatory": false,
+          "description": "The name of the window element."
+        },
+        {
+          "name": "Area",
+          "type": "Area",
+          "unit": "m²",
+          "mandatory": true,
+          "description": "The area of the window in square meters."
+        }
+      ]
+    }
+  ],
+  "output": {
+    "format": "Excel",
+    "fileName": "Cost_of_elements.xlsx",
+    "description": "Processed data with mandatory properties, quantities, and costs."
+  },
+  "validation": {
+    "missingData": "Log a warning for missing mandatory properties and skip those elements.",
+    "unitConsistency": "Ensure all units are converted to the specified format (e.g., meters, square meters)."
+  },
+  "customization": {
+    "additionalElements": "Easily extendable by adding new element types and properties to the `requirements` array.",
+    "costIntegration": "Ensure integration with the external cost database for accurate cost calculation."
+  }
+}
