@@ -46,4 +46,34 @@ You made a great phase breakdown
 
 Cool that is it interchangable with the fact that you could use it for beams and other elements with the same code	
 
-**Group 41: **
+**Group 41:**
+	
+ Feedback from Group 40: 
+
+ Question: Is it the user that inserts the cost?
+
+ Sounds like a good tool to use
+
+ Answer: Cost is a variable that we inserted in the definition 
+
+ Feedback from Group 44: 
+
+ Question: What if the type is not m^2? 
+
+ Answer: You can adapt the script to fit something like volume, but you would need to.
+
+ That is a point for development
+
+ Good job
+
+ Feedback from Group 42: 
+
+ Question: Have you thought about what phase the tool could be used?
+
+ The tool is very manual, since you have to modify the code to make it fit. 
+
+ Maybe make the search phrase a part of the input so that is it more fluent. 
+
+ You thought about the use-phases very well
+		
+
