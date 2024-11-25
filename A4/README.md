@@ -25,7 +25,7 @@ Entrepeneurs can use it in a tendor phase
 
 Great table output
 
-For future purposes: See if the script is able to do it with windows to see if it is adaptable 	and interchangable. The potential for    that is very cool
+For future purposes: See if the script is able to do it with windows to see if it is adaptable and interchangable. The potential for    that is very cool
 
 
 **Group 44:**
