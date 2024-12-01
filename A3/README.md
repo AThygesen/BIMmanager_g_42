@@ -16,17 +16,18 @@ The tool pulls available product data from the IFC file. The tool creates a CSV-
 
 **Instructions to run the tool:**
 
-A IFC file is chosen
+Load the chosen IFC file with in you python IDE, then load your database and run the file. We have made an example/mock database to show how it would work. Run the script and you will get an excel sheet with the elements, amounts and prices.
+
 
 **Advanced Building Design:** 
 
 **What Advanced Building Design Stage (A, B, C or D) would your tool be useful?**
 
-This tool is mostly relevant in stage A. The tool can create a quick estimate of the price of a chosen design. 
+This tool is mostly relevant in stage B and C. The tool can create a quick estimate of an existing design, this can help in the design end of a desgin fase and in the building fase, where the contractor needs to make a bid for the case. The overview that the tool will be able to provide, can become a strong tool for the industry in these fases. 
 
 **Which subjects might use it?** 
 
-The tool could be use full for both consulting and contracting firms. For the consulting firms it can be use to make a more precises price estimate for the projekt porposal when the bim model is more or less finished. The consulting firm can also be used to confirm a contracters bid, before accepting it. 
+The tool could be use full for both consulting and contracting firms. For the consulting firms it can be use to make a more precises price estimate for the projekt porposal an on, when the bim model is more or less finished. The consulting firm can also be used to confirm a contracters bid, before accepting it. 
 The contracters could use it in the same way, when giving a bid for a potential construction, a lot of time would be saved if they could run the program, instead of having to count every single element in a drawing or model. 
 
 **What information is required in the model for your tool to work?** 
