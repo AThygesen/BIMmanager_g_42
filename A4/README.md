@@ -17,7 +17,7 @@ Feedback from Group 41:
 
 Question: How is your tutorial formatted?
 
-Feedback from Group 42:
+Feedback from Group 42 (Manager):
 
 Really good idea to use regex
 
@@ -40,7 +40,7 @@ Feedback from Group 41:
 
 Cool that you solved the volume extraction problems 
 
-Feedback from Group 42: 
+Feedback from Group 42 (Manager): 
 
 You made a great phase breakdown
 
@@ -66,7 +66,7 @@ Cool that is it interchangable with the fact that you could use it for beams and
 
  Good job
 
- Feedback from Group 42: 
+ Feedback from Group 42 (Manager): 
 
  Question: Have you thought about what phase the tool could be used?
 
