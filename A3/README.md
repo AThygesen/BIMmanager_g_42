@@ -12,11 +12,17 @@ The problem was not found directly in the IFC-files but is a general problem whe
 
 **Description of the tool:**
 
+The tool pulls available product data from the IFC file. The tool creates a CSV-file/dataframe with a list of the chosen elements and the relevant dimensions for each. The element names/ID are then compared to another database filled with a unit-prices for each element. If a match is found the tool takes the unit-price and dimensions and calculates the total price for each kind of element. The final product of the tool is then a list of each element and their prices. Therefor also a total material cost of the building. In future cases the database could include construction cost which would make the final result even more accurate. 
+
 **Instructions to run the tool:**
+
+A IFC file is chosen
 
 **Advanced Building Design:** 
 
 **What Advanced Building Design Stage (A, B, C or D) would your tool be useful?**
+
+This tool is mostly relevant in stage A. The tool can create a quick estimate of the price of a chosen design. 
 
 **Which subjects might use it?** 
 
