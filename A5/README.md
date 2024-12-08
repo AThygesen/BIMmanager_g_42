@@ -34,4 +34,19 @@ Yes, i would say so, i have a development assignment where OpenBIM can come in p
 
 Being part of the manager group was initially a challenging experience, as the expectations and responsibilities were unclear. However, over time, the role became more defined. The manager group evolved into a vital support unit, assisting the analyst groups by addressing their questions and guiding them toward solutions. This process required us to deepen our understanding of various tools and objectives, enabling us to provide effective support. While unconventional, this hands-on approach proved to be an efficient and impactful method of learning, ultimately strengthening our ability to fulfill our responsibilities.
 
-**August (sxxxxxx)**
+**August (s211568)**
+
+*Are you likely to use OpenBIM tools in your thesis?*
+
+Yes, I think so. I used OpenBIM for my bachelor project and that was really fun. I think it could be interessting to see if there are new solutions to be found to do regulation checks. Or perhaps do something on the macro scale. Research the possibilites with a library of digital twins.  
+
+*Are you likely to use OpenBIM tools in your professsional life in the next 10 years?*
+
+Yes, i hope so. It could be fun to work with projects where we utilize OpenBIM tools. Right now I am working in cost management and I would say we use BIM tools pretty often. So it makes sense to try and use OpenBIM tools aswell. 
+
+*Conclude the journey through A1-A5:*
+
+I think that the "manager and analyst group" idea is good. There could have been ´bit more explaining, in learn or in class. I think we found our way through it and learned a lot on the way. It was really interesting to see what the analyst groups had made and try to help thoose that needed it. I think the steps in assignments made sense. Went from idea to tool and the proccess was good. I think thoose who didn't know any OpenBIM and IFCopenshell before, they had a hard time in the begginning learning a new language and there not that many tutorials on good programming with IFCopenshell. But I think they learned and grew so much and the tools they created were very cool. 
+It was also great to become more adjusted and proficient at using Github. I had only used in very little before and now I feel much more comfortable using it. 
+In some of the assignments i think the managerrole could have been more clear. I loved to learn and help the other group with their assignment, but the manager assignment wasn't always equally clear. 
+It has been a nice journey. Some very nice presentations from some very cool people with some very interesting tools. I have learned a lot of process and understanding of systems. The assignments have been fun. 
